@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Jitse-dev
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hi, I'm Jitse! <br/><a href="https://github.com/Jitse-dev">Programmer</a>, <a href="https://www.linkedin.com/in/jitse-sophie-147391204/">ServiceDesk Analyst</a></h1>
 
-<!---
-Jitse-dev/Jitse-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>first test repository</b>
+  - [test1]([https://github.com/Jitse-dev/)
+  - 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jitse-sophie-147391204/
