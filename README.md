@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>first test repository</b>
-  - [test1]([https://github.com/Jitse-dev/)
+- <b>Github Tutorials</b>
+  - [Introduction to Github](https://github.com/Jitse-dev/skills-introduction-to-github)
 
 <h2> 👨‍💻 Certificates</h2>
 
