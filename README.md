@@ -19,6 +19,18 @@
 - [PHP](https://github.com/Jitse-dev/Certificates/blob/main/PHP_certificate.jpg)
 - [HTML](https://github.com/Jitse-dev/Certificates/blob/main/HTML_certificate.jpg)
 
+### Microsoft Learn
+- [Microsoft Azure Fundamentals: Describe Azure management and governance](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/A4VGZFM7?sharingId=90B328823CD9808D)
+- [Microsoft Azure Fundamentals: Describe Azure architecture and services](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/FMAJN6UX?sharingId=90B328823CD9808D)
+- [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/FMAM6MPX?sharingId=90B328823CD9808D)
+- [Build Power BI visuals and reports](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/WZURJXFN?sharingId=90B328823CD9808D)
+- [Design effective reports in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/P5VJUVW4?sharingId=90B328823CD9808D)
+- [Manage workspaces and datasets in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/P5VB9JZ4?sharingId=90B328823CD9808D)
+- [Prepare data for tabular models in Power BI](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/FVHYS7PX?sharingId=90B328823CD9808D)
+- [Prepare data for analysis with Power BI](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/HADURPY8?sharingId=90B328823CD9808D)
+- [Get and transform data with Power BI](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/749RPLQZ?sharingId=90B328823CD9808D)
+- [Get started with Microsoft data analytics](https://learn.microsoft.com/api/achievements/share/en-us/JitseSophie-2747/APLR6XC7?sharingId=90B328823CD9808D)
+
 
 <h2> 🤳 Connect with me:</h2>
 
