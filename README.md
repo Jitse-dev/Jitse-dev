@@ -6,7 +6,7 @@
 ### Github Tutorials
   - [Introduction to Github](https://github.com/Jitse-dev/skills-introduction-to-github)
 
-## 👨‍💻 Certificates
+## 👨‍💻 Learning achievements
 
 ### Sololearn
 - [Tech for Everyone](https://github.com/Jitse-dev/Certificates/blob/main/Tech%20for%20Everyone_certificate.jpg)
