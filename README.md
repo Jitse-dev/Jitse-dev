@@ -36,4 +36,13 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jitse-sophie-147391204/
+[linkedin]: https://www.linkedin.com/in/jitse-sophie-147391204/ 
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+![Speedtest](https://github.com/user-attachments/assets/66b51188-61b5-47b7-9eb4-64f64709dd0a)
+
