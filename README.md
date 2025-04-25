@@ -3,6 +3,8 @@
 
 ## 👨‍💻 Software Development Projects:
 
+### Youtube Tutorials
+  - [Google Data Studio Tutorial for Beginners ](https://github.com/Jitse-dev/Google-Data-Studio-Tutorial-for-Beginners)
 ### Github Tutorials
   - [Introduction to Github](https://github.com/Jitse-dev/skills-introduction-to-github)
 
