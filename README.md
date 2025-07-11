@@ -3,6 +3,20 @@
 
 ## 👨‍💻 Software Development Projects:
 
+### Godot
+ - [Godot + Firebase](https://github.com/Jitse-dev/Godot-Firebase)
+<img width="160" height="222" alt="godot firebase authentication" src="https://github.com/user-attachments/assets/f73cb848-34c8-4200-88b7-079ee6860a3e" />
+<img width="160" height="222" alt="image" src="https://github.com/user-attachments/assets/39de7d36-48d5-4a0e-ba20-d1b1ce37b292" />
+
+Godot + Firebase (auth and db)
+
+ - [Godot + Astar2D](https://github.com/Jitse-dev/Godot-Astar2d)
+<img width="250" height="160" alt="image" src="https://github.com/user-attachments/assets/5deea092-eede-4823-a4c6-5cdd39fa5272" />
+
+
+
+
+
 ### Firebase Studio
 <img width="300" height="200" alt="Firebase Studio" src="https://github.com/user-attachments/assets/7bf9bfa4-83a7-46db-90de-b0a14e87c4d5" /><img width="300" height="200" alt="Beau Miles forest" src="https://github.com/user-attachments/assets/7025def9-d83b-4cf7-9344-05a07b34950e" />
 
