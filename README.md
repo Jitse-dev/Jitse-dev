@@ -3,6 +3,12 @@
 
 ## 👨‍💻 Software Development Projects:
 
+### Firebase Studio
+<img width="300" height="200" alt="Firebase Studio" src="https://github.com/user-attachments/assets/7bf9bfa4-83a7-46db-90de-b0a14e87c4d5" /><img width="300" height="200" alt="Beau Miles forest" src="https://github.com/user-attachments/assets/7025def9-d83b-4cf7-9344-05a07b34950e" />
+
+Firebase Studio + Google Console (YouTube Data API v3)
+
+
 ### Youtube Tutorials
   - [Google Data Studio Tutorial for Beginners ](https://github.com/Jitse-dev/Google-Data-Studio-Tutorial-for-Beginners)
 ### Github Tutorials
